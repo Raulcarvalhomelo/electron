@@ -1,0 +1,15 @@
+{
+  "name": "sd-automation",
+  "version": "1.0.0",
+  "description": "auntomation",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "node --exec electron ."
+  },
+  "author": "RaulMelo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
